@@ -3,9 +3,9 @@ Self-Driving Car Engineer Nanodegree Program
 
 [//]: # (Image References)
 
-[video1]: ./driving_P_control.mov "Video"
-[video2]: ./driving_PD_control.mov "Video"
-[video3]: ./driving_PID_control.mov "Video"
+[video1]: ./video_output/driving_P_control.mov "VideoP"
+[video2]: ./video_output/driving_PD_control.mov "VideoPD"
+[video3]: ./video_output/driving_PID_control.mov "VideoPID"
 
 ---
 
