@@ -5,7 +5,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 [video1]: ./video_output/driving_P_control.mov "VideoP"
 [video2]: ./video_output/driving_PD_control.mov "VideoPD"
-[video3]: ./video_output/driving_PID_control.mov "VideoPID"
+[video3]: ./video_output/driving_PID_full.mov "VideoPID"
 
 ---
 
