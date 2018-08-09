@@ -5,9 +5,9 @@ In this project, a PID control has been implemnted for autonomous driving of a c
 
 [//]: # (Image References)
 
-[video1]: ./video_output/driving_P_control.mov "VideoP"
-[video2]: ./video_output/driving_PD_control.mov "VideoPD"
-[video3]: ./video_output/driving_PID_full.mov "VideoPID"
+[image1]: ./pid_perform2.png "mpc car1"
+[image2]: ./pid_perform3.png "mpc car2"
+[image3]: ./pid_perform4.png "mpc car3"
 
 ---
 
@@ -15,6 +15,17 @@ The input to the controller is cross track error, the difference between the y c
 
 
 #### Details about PID parameter tuning can be found [here]https://github.com/tamoghna21/SelfDriving-PID-Control/edit/master/writeup.md
+
+![alt text][image1]
+
+
+
+![alt text][image2]
+
+
+
+![alt text][image3]
+
 
 
 
