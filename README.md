@@ -11,6 +11,9 @@ In this project, a PID control has been implemnted for autonomous driving of a c
 
 ---
 
+The input to the controller is cross track error, the difference between the y coordinate of the car and the reference trajectory. The control input is the steering angle command.
+
+
 #### Details about PID parameter tuning can be found [here]https://github.com/tamoghna21/SelfDriving-PID-Control/edit/master/writeup.md
 
 
